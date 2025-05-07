@@ -2,7 +2,7 @@
 
 
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MTdkNzI3NDg5MjhlYzZmODY4MWU1NDQxODhmNjNkODJfaVZWYWdrZTR2YlVOSXV5N0dTdnB2SW5Pdkd2cXBxS2lfVG9rZW46SE1tZ2I0Mng5b29oajl4RlhQNGxJQ2ZOZ3VoXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NThmMWQwZTc2OWRkNTMyYmY5N2Y5MDlkMjAxNGNjMDBfUG02NGZTOHNveW9VcERXZlVoZURIakZpaDQwcjZ3dGpfVG9rZW46SE1tZ2I0Mng5b29oajl4RlhQNGxJQ2ZOZ3VoXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
 
 
@@ -40,7 +40,7 @@ Suno v4.5 显著拓展了其对音乐流派的支持范围。
 
 
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YWM0MmRlZTE4MDA5M2ViNzliNjQ0ZGJiZTFhOTViNWVfZ0JCMjA0T1F4SXFYQVJPNGQySW0ycHdBcFVnUHd1cWxfVG9rZW46Q3FXaWJJRHd3bzhJa2p4MjRQdGxsTXhBZ3pmXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NTUxZDlkZmM0ZTczNDUwMzk2ZjlkNDUxYTUzZjk3YjBfaTUwYzlCSmtPOW9YamJmeDEzVGM3VUpwd0VqYlJpQldfVG9rZW46Q3FXaWJJRHd3bzhJa2p4MjRQdGxsTXhBZ3pmXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
 
 
@@ -98,7 +98,7 @@ Suno v4.5 中的封面歌曲和人物角色功能得到了显著增强。
 
 Suno v4.5 的最长歌曲时长已延长至 8 分钟，之前的限制为 4 分钟。大家现在可以创作更长的音乐作品，而无需使用扩展功能。该模型在整个时长内保持了音乐的质量和连贯性。
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZjYxNWViZTczOTc5ZTExOGIzNmEyMGQ0NDVhZjAxNzVfbHVURmJUaEFROW4xdW5kSThQMk1SRm9TZ0dtd2YzdWNfVG9rZW46TmFBWWJGSjB0b05Ca0N4cmllNWxleEExZ2pmXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=OGFmNDVjMTU4MDE1OTAyYTcwNzEwYWRkYmZhMzA0NzdfUTNucWFTWjE2VjBrejJKbW9HdTk1STZHcllUaDRyTk5fVG9rZW46TmFBWWJGSjB0b05Ca0N4cmllNWxleEExZ2pmXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
 
 
@@ -120,11 +120,13 @@ Suno v4.5 的音频混音更加平衡和饱满。此次更新减少了音频失�
 
 
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NGYxMDBhNjM5MWQ1YzUxODEzN2Q0MmI2MTU5NThkYTlfd2tON3pKbWxVdGloZ21LYTN3OXc3bU1LWGJUaFlKT25fVG9rZW46UENacmJYd1NEbzNhbVd4WjJ2ZWxmR000Z3VkXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=OWIwNzRiYTNiN2E4YTA1MjVmNmMxZTkzOTM4YWI1YTdfTEQ3ck13VURuNmc5aWdwS0JsMTNkekZQRlIyT3hKQVNfVG9rZW46UENacmJYd1NEbzNhbVd4WjJ2ZWxmR000Z3VkXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
 # 国内用户如何使用Suno v 4.5
 
 目前Suno v4.5是无法免费使用的，只有订阅了会员才能使用，不过Suno是不支持国内的支付方式，如果你想要订阅Suno，可以通过国内的野卡平台去搞定。
+
+相关阅读：[最新野卡wildcard使用指南：超全面介绍](https://www.fengshengyusheng.cn/%e6%9c%80%e6%96%b0%e9%87%8e%e5%8d%a1wildcard%e4%bd%bf%e7%94%a8%e6%8c%87%e5%8d%97%ef%bc%9a%e8%b6%85%e5%85%a8%e9%9d%a2%e4%bb%8b%e7%bb%8d/)
 
 
 
@@ -139,13 +141,13 @@ Suno v4.5 的音频混音更加平衡和饱满。此次更新减少了音频失�
 
 Wildcard官网链接：https://yeka.ai/i/AGENT
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=OWQzMThiZTIyNDIwMjRjNzJkNjc0ZjAxNDM3YmM2MzJfakxaY1JCUmVUUVdpNFJ1VkMweUxHQllQOUpEOG1mYzhfVG9rZW46TThWdGJTemZIb1J3OXV4VGxJMmx1VjdUZ0tkXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZTU3OTVlMTQzYTY5NTQ4NmZjYmIzMThkYWM5NzYxYTJfVlZuRnVJcWlVSVpwRTdDUzhTcG0xTE5mZXlsVFdnOXFfVG9rZW46TThWdGJTemZIb1J3OXV4VGxJMmx1VjdUZ0tkXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
 ## 2. **选择Wildcard的会员订阅服务**
 
 在页面的左侧，找到支付卡选项，然后并点击【立即开通】按钮。
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MmYwODFlNmYxNzM5NTJmMDIyZWRiMWM4YjVhMDE2OTlfOFJHajdrbGs0UTZtcUFzRkUyUXdiOG1jQ1hHVVlKbE9fVG9rZW46UFhBTmJMa2lWb0FTdHh4b0U1bGxKN0pXZ1FiXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MjdjMjg1M2I4NzVmYmZlY2JkMTU0ZjU2M2ZhZDczYjNfU3ZIaDNYVERiOHBTaFJ0blJqOTBudUltOUNZcnhyRXBfVG9rZW46UFhBTmJMa2lWb0FTdHh4b0U1bGxKN0pXZ1FiXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
 3. **根据需求选择订阅年限**
 
@@ -153,7 +155,7 @@ Wildcard官网链接：https://yeka.ai/i/AGENT
 
 **邀请码为：AGENT**
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NDA0OWFlMWYyOTMwYzNkOTNhYmFlYWM2MGY1YTQwOTRfZ1pndnU3NlhmQ2tRN1FlRk53NDNITEx6Zzk4UDdhOHZfVG9rZW46UFpIc2IybHFwbzdsSGh4Yzg0QWx5T094ZzNkXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NmYyNGM3ZmZjN2FjNzk4MjVlMWY3OTkwYjY1ZWFkYzZfaHZ1eE5MaFM4VmhmeVRjYWJEWEJXaWJoQ0NnWmM4bVZfVG9rZW46UFpIc2IybHFwbzdsSGh4Yzg0QWx5T094ZzNkXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
 随后根据指引完成开通会员流程，开通野卡Wildcard的会员后就可以订阅Suno了，不过野卡Wildcard提供的卡片信息本质上是借记卡，需要先充值后消费，我们还得先充值足够的金额，以用于订阅Suno。
 
@@ -161,7 +163,7 @@ Wildcard官网链接：https://yeka.ai/i/AGENT
 
 完成充值后，就到了最后一步，使用野卡WIildcard提供的卡片信息去订阅Suno。
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=YmJmZTIzZjgxZjVhZGRmODJkZGY0ZGZjMmVkMDYzNDhfUlFtVXJ1c1dneHFOWFlCc09KSUNKMEdkMjBaeFdmYm9fVG9rZW46THhGV2JPeWVZb1FvT1Z4dDUyZWxOaDF1Z1hlXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NTI0MzMxOTg3NmJhMmJiOThiMjEyYmRmNjcxYzExNDlfMmoxdUNyNkZTMWF5SkJHOWRKU0h6cEV4b0Q3bHRibXJfVG9rZW46THhGV2JPeWVZb1FvT1Z4dDUyZWxOaDF1Z1hlXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
 # 野卡WIldcard取消Suno自动订阅流程
 
@@ -173,9 +175,9 @@ Wildcard官网链接：https://yeka.ai/i/AGENT
 
 **1.登录 Suno，点击左侧边栏的「Upgrade」。**
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=N2Y2NGNlMzc2MGJhOTZhNzUyYjgzMzQwNmM2YjM5ZTRfM2ViSUI4Nm80Ukh5YXl3eU9PMGJ1QW9kQnI3eFlCTUVfVG9rZW46TTJ3VWJ4U0c3b2pSUkV4QWVxSmw3QW56Z3VmXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=NDkzYjViYzVhYTFkYWFjZDFiNTNmMjY0MmMyODljNjNfRnZtRURoSm5wRm9yc0RLRDNkWlZHWlpLZ2syRExIbGlfVG9rZW46TTJ3VWJ4U0c3b2pSUkV4QWVxSmw3QW56Z3VmXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
 **2.在跳转的页面，选择「Cancel Plan」，完成取消即可。**
 
-![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=OTdkZWJiYzljNjI3NDcwMzY5NWVjMGJkMGM4ZjNmOWRfeFRsRmU1Sk5ndTJZcTAwN0Z6aW56R0ZzcjFTT0NkcHFfVG9rZW46SWFVTWJEMGtJb2NwTEt4Q1NYVWw3U05NZ2VmXzE3NDY2MTg2NjU6MTc0NjYyMjI2NV9WNA)
+![](https://workstation.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZTliY2Y2YjkyZjFiYzAyNGFlNTIwODY0ZjIzOTE2ZTZfVDJnN3FtUGtyOFA4djBLWlkxWXRIV1l3Y25uM0w3WmdfVG9rZW46SWFVTWJEMGtJb2NwTEt4Q1NYVWw3U05NZ2VmXzE3NDY2MTkwMjc6MTc0NjYyMjYyN19WNA)
 
